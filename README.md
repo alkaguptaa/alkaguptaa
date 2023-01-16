@@ -7,19 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/alkaaaaa10" target="blank"><img src="https://img.shields.io/twitter/follow/alkaaaaa10?logo=twitter&style=for-the-badge" alt="alkaaaaa10" /></a> </p>
 
-- 🔭 I’m currently working on **Android Development**
+- 🔭 I’m currently working on **DevOps**
 
-- 🌱 I’m currently learning **Web Development**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
 - 📝 I regularly write articles on [https://hashnode.com/@alkagupta](https://hashnode.com/@alkagupta)
 
-- 💬 Ask me about **Java, Data Structures**
+- 💬 Ask me about **Java, Data Structures, DevOps, Cloud Computing**
 
 - 📫 How to reach me **guptaalka102001@gmail.com**
 
-- ⚡ Fun fact **I do leetcode 😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
